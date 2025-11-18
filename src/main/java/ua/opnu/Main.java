@@ -16,9 +16,9 @@ public class Main {
         return true;
     };
 
-    // =========================
+    // ========================
     // Клас Student для завдань 2–4
-    // =========================
+    // ========================
     static class Student {
         private String name;
         private String group;
